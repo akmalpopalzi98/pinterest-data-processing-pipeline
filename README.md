@@ -1,5 +1,7 @@
 # Cloud and Data Engineering Project
 
+<!-- PROJECT SHIELDS -->
+
 ### Pinterest Data Processing Pipeline
 
-TESTING 1 231234234
+This repository contains files for 
