@@ -2,6 +2,29 @@
 ### Pinterest Data Processing Pipeline
 
 <!-- PROJECT SHIELDS -->
-<div>
-  <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qubole.com%2Fplatform%2Fopen-data-lake-platform%2Fdata-engineering&psig=AOvVaw2u_KB4YBgXlNUa19rwDXWj&ust=1696541929487000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDShqqt3YEDFQAAAAAdAAAAABAM" />
-</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
